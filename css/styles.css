@@ -54,6 +54,19 @@ body {
   bottom: 0px;
 }
 .carousel-caption {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   background-color: rgba(0,0,0,.6);
+}
+
+.modal-header {
+  background-color: #512da8;
+  color: floralwhite;
+}
+
+.modal-header button {
+  color: floralwhite;
+}
+
+.modal-body {
+  background-color: #d1c4e9;
 }
